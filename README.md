@@ -19,6 +19,13 @@ MehrGate\MehrGateServiceProvide::class,
 ----------------------------------
 ## Usage 
 
+### .env variables
+```dotenv
+MEHR_GATE_CALLBACK=http://localhost/public/verify
+MEHR_GATE_TOKEN=xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx
+MEHR_GATE_TEST=true
+```
+
 ### Init request to gate
 
 ```php
