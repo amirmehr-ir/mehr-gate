@@ -2,32 +2,9 @@
 
 ## This package is developed by Amir Hosein Sharifi Mehr for 'https://zarinpal.com'
 
-### +9899181881667 / amirhoseinsharifimehr@gmail.com
+#### amirhoseinsharifimehr@gmail.com
 
 ---
-
-
-### config composer.json
-put
-```
-"MehrGate\\": "mehr/mehr-gate/src"
-``` 
-in following line of composer.json
-```json
-"autoload": {
-    "psr-4": {
-        "App\\": "app/",
-        "Database\\Factories\\": "database/factories/",
-        "Database\\Seeders\\": "database/seeders/",
-        "MehrGate\\": "mehr-gate/src"
-    }
-},
-```
-
-### Run current command after edit composer.json
-```
-composer dumpautoload
-```
 
 ### Put current line to 'providers' in config/app.php
 ```
