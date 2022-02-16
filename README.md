@@ -1,4 +1,4 @@
-# MehrGate Laravel
+## MehrGate Laravel
 This package is developed by Amir Hosein Sharifi Mehr for 'https://zarinpal.com'
 amirhoseinsharifimehr@gmail.com
 
