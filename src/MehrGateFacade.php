@@ -1,6 +1,6 @@
 <?php
 
-namespace MehrGate;
+namespace Amirmehr\MehrGate;
 
 use Illuminate\Support\Facades\Facade;
 

@@ -1,9 +1,6 @@
 <?php
 
-namespace MehrGate;
-
-use Illuminate\Support\Facades\Log;
-use MehrGate\Models\Payment;
+namespace Amirmehr\MehrGate;
 
 class MehrGate
 {

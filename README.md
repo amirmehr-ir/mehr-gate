@@ -11,12 +11,12 @@ composer require amirmehr/mehr-gate
 
 ## Put current line to 'providers' in config/app.php
 ```
-MehrGate\MehrGateServiceProvider::class
+Amirmehr\MehrGate\MehrGateServiceProvider::class
 ```
 
 ## Put current line to 'aliases' in config/app.php
 ```
-'MehrGate' => MehrGate\MehrGateFacade::class
+'MehrGate' =>Amirmehr\MehrGate\MehrGateFacade::class
 ```
 
 # Usage 
