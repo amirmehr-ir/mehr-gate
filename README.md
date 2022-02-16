@@ -1,4 +1,4 @@
-# MehrGate
+# MehrGate Laravel
 This package is developed by Amir Hosein Sharifi Mehr for 'https://zarinpal.com'
 amirhoseinsharifimehr@gmail.com
 
@@ -11,7 +11,7 @@ composer require amirmehr/mehr-gate
 
 ## Put current line to 'providers' in config/app.php
 ```
-MehrGate\MehrGateServiceProvider::class,
+MehrGate\MehrGateServiceProvider::class
 ```
 
 ## Put current line to 'aliases' in config/app.php
