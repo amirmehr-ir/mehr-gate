@@ -1,6 +1,8 @@
 {
     "name": "amirmehr/mehr-gate",
-    "description": "For Gate's",
+    "description": "easy gate connection with test mode for zarinpal.com",
+    "homepage": "https://github.com/amirmehr-ir/mehr-gate",
+    "license": "MIT",
     "authors": [
         {
             "name": "Amir Mehr",
@@ -9,7 +11,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Mehr\\": "src/"
+            "MehrGate\\": "src/"
         }
     },
     "require": {}

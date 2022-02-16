@@ -4,7 +4,7 @@ namespace MehrGate;
 
 use Illuminate\Support\ServiceProvider;
 
-class MehrGateServiceProvide extends ServiceProvider
+class MehrGateServiceProvider extends ServiceProvider
 {
     public function register()
     {
